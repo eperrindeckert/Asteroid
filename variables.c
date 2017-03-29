@@ -1,0 +1,1 @@
+extern int nombre_asteroid = 666;
